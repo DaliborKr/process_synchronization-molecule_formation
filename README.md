@@ -1,6 +1,9 @@
 # **Proccess synchronization - Water molecule formation**
 ### Author: _Dalibor Kříčka_
 ### 2022, Brno
+
+Note: This project was part of the course _Operating Systems_ at BUT FIT.
+
 ---
 
 ## **Key words**
